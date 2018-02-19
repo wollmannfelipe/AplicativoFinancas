@@ -1,0 +1,14 @@
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\obj\Debug\RegraDeNegocioFinancas.csprojResolveAssemblyReference.cache
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\obj\Debug\RegraDeNegocioFinancas.csproj.CoreCompileInputs.cache
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\RegraDeNegocioFinancas.dll.config
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\RegraDeNegocioFinancas.dll
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\RegraDeNegocioFinancas.pdb
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\BancoDeDadosFinancas.dll
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\EntityFramework.dll
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\BancoDeDadosFinancas.pdb
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\BancoDeDadosFinancas.dll.config
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\EntityFramework.xml
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\obj\Debug\RegraDeNegocioFinancas.dll
+C:\DevWeb\RegraDeNegocioFinancas\RegraDeNegocioFinancas\obj\Debug\RegraDeNegocioFinancas.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DBContext-Web.config Connection String" description="DBContext Connection String used in web.config by the application to access the database." defaultValue="Server=appfinancasserver.database.windows.net;Database=AppFinancasDB;persist security info=True;user id=adminfin;password=adM90er7;MultipleActiveResultSets=True;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\DevWeb\\WepApiFinancas\\WepApiFinancas\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DBContext']/@connectionString" />
+  </parameter>
+</parameters>

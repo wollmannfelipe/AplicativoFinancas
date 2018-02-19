@@ -1,0 +1,11 @@
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\obj\Debug\BancoDeDadosFinancas.csprojResolveAssemblyReference.cache
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\obj\Debug\BancoDeDadosFinancas.csproj.CoreCompileInputs.cache
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\BancoDeDadosFinancas.dll.config
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\BancoDeDadosFinancas.dll
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\BancoDeDadosFinancas.pdb
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\EntityFramework.dll
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\EntityFramework.SqlServer.dll
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\EntityFramework.xml
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\bin\Debug\EntityFramework.SqlServer.xml
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\obj\Debug\BancoDeDadosFinancas.dll
+C:\DevWeb\BancoDeDadosFinancas\BancoDeDadosFinancas\obj\Debug\BancoDeDadosFinancas.pdb
